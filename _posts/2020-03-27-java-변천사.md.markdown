@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "java 변천사"
+date:   2020-03-27 16:36:20 +0900
+categories: jekyll update
+---
+
 ![java](http://blogfiles.naver.net/20100720_40/seou0735_1279610783688DHr90_jpg/2010-07-20_16%3B26%3B00_seou0735.jpg)
 
 
